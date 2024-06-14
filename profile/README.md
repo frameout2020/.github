@@ -9,27 +9,27 @@
 
 <div style="display : flex; gap : 20px;">
   <div style="display : flex; flex-direction : column; align-items : center;">
-    <img src="./img/나영준.png" style="width : 200px"/>
+    <img src="./img/나영준.png" style="width : 200px; border-radius : 100%; overflow : hidden;"/>
     <span style="margin-top : 10px; font-size : 20px; ">나영준 팀장</span>
   </div>
 
   <div style="display : flex; flex-direction : column; align-items : center;">
-    <img src="./img/함성재.jpg" style="width : 200px"/>
+    <img src="./img/함성재.jpg" style="width : 200px; border-radius : 100%; overflow : hidden;"/>
     <span style="margin-top : 10px; font-size : 20px; ">함성재 차장</span>
   </div>
 
   <div style="display : flex; flex-direction : column; align-items : center;">
-    <img src="./img/이은재.png" style="width : 200px"/>
+    <img src="./img/이은재.png" style="width : 200px; border-radius : 100%; overflow : hidden;"/>
     <span style="margin-top : 10px; font-size : 20px; ">이은재 차장</span>
   </div>
 
   <div style="display : flex; flex-direction : column; align-items : center;">
-    <img src="./img/최찬식.jpg" style="width : 200px"/>
+    <img src="./img/최찬식.jpg" style="width : 200px; border-radius : 100%; overflow : hidden;"/>
     <span style="margin-top : 10px; font-size : 20px; ">최찬식 대리</span>
   </div>
 
   <div style="display : flex; flex-direction : column; align-items : center;">
-    <img src="./img/김예빈.jpeg" style="width : 200px"/>
+    <img src="./img/김예빈.jpeg" style="width : 200px; border-radius : 100%; overflow : hidden;"/>
     <span style="margin-top : 10px; font-size : 20px; ">김예빈 주임</span>
   </div>
 </div>
