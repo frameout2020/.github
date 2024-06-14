@@ -5,9 +5,42 @@
 
 ---
 
+## Team Frameout Publisher
+
+<div style="display : flex; gap : 20px;">
+  <div style="display : flex; flex-direction : column; align-items : center;">
+    <img src="./img/나영준.png" style="width : 200px"/>
+    <span style="margin-top : 10px; font-size : 20px; ">나영준 팀장</span>
+  </div>
+
+  <div style="display : flex; flex-direction : column; align-items : center;">
+    <img src="./img/함성재.jpg" style="width : 200px"/>
+    <span style="margin-top : 10px; font-size : 20px; ">함성재 차장</span>
+  </div>
+
+  <div style="display : flex; flex-direction : column; align-items : center;">
+    <img src="./img/이은재.png" style="width : 200px"/>
+    <span style="margin-top : 10px; font-size : 20px; ">이은재 차장</span>
+  </div>
+
+  <div style="display : flex; flex-direction : column; align-items : center;">
+    <img src="./img/최찬식.jpg" style="width : 200px"/>
+    <span style="margin-top : 10px; font-size : 20px; ">최찬식 대리</span>
+  </div>
+
+  <div style="display : flex; flex-direction : column; align-items : center;">
+    <img src="./img/김예빈.jpeg" style="width : 200px"/>
+    <span style="margin-top : 10px; font-size : 20px; ">김예빈 주임</span>
+  </div>
+</div>
+
+---
+
 ## 레파지토리 제작 메뉴얼
+
 ### 1) 네이밍 가이드
-레파지토리 명칭은 **분류._이름** 형태로 통일합니다.
+
+레파지토리 명칭은 **분류.\_이름** 형태로 통일합니다.
 
 <table>
     <thead>
@@ -45,14 +78,16 @@
 </table>
 
 ### 2) 레파지토리 생성
-레파지토리 명칭은 '**분류._이름**', Description은 '**[분류] 이름**'으로 통일하며 공개 여부는 '**Private**'으로 세팅 후 레파지토리를 생성합니다.
+
+레파지토리 명칭은 '**분류.\_이름**', Description은 '**[분류] 이름**'으로 통일하며 공개 여부는 '**Private**'으로 세팅 후 레파지토리를 생성합니다.
 
 ### 3) 레파지토리 URL 설정
+
 레파지토리 생성 후 Github Page URL 생성 (URL 생성은 **레파지토리 생성한 사람, 팀장, 파트장**에게 권한이 있음)
 
 1. 레파지토리 페이지에서 'Settings' 버튼 클릭
 2. 'Pages' 메뉴 클릭 > 'main' 브랜치 선택 > 'Save' 버튼 클릭
-3. 레파지토리 페이지에서 'Setting Icon' 클릭 > 'Use your GitHub Pages website' 체크 > 'Save changes' 버튼 클릭 
+3. 레파지토리 페이지에서 'Setting Icon' 클릭 > 'Use your GitHub Pages website' 체크 > 'Save changes' 버튼 클릭
 
 ---
 
