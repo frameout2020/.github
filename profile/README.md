@@ -61,7 +61,7 @@
         </tr>
          <tr>
             <td>
-              <img src="./img/이희원.jpg" style="width:200px; height:200px;" />
+              <img src="./img/송가혜.jpeg" style="width:200px; height:200px;" />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">송가혜 주임</span>
