@@ -19,13 +19,13 @@
     <tbody>
         <tr>
             <td>
-              <img src="./img/나영준.png" style="width:200px; height:200px;" />
+              <img src="./img/나영준.png"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">나영준 팀장</span>
             </td>
             <td>
-              <img src="./img/함성재.jpg" style="width:200px; height:200px;" />
+              <img src="./img/함성재.jpg"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">함성재 차장</span>
@@ -33,13 +33,13 @@
         </tr>
         <tr>
             <td>
-              <img src="./img/이은재.png" style="width:200px; height:200px;" />
+              <img src="./img/이은재.png"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">이은재 차장</span>
             </td>
             <td>
-              <img src="./img/최찬식.jpg" style="width:200px; height:200px;" />
+              <img src="./img/최찬식.jpg"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">최찬식 대리</span>
@@ -47,13 +47,13 @@
         </tr>
         <tr>
             <td>
-              <img src="./img/김혜연.png" style="width:200px; height:200px;" />
+              <img src="./img/김혜연.png"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">김혜연 대리</span>
             </td>
             <td>
-              <img src="./img/김예빈.jpeg" style="width:200px; height:200px;" />
+              <img src="./img/김예빈.jpeg"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">김예빈 주임</span>
@@ -61,13 +61,13 @@
         </tr>
          <tr>
             <td>
-              <img src="./img/이희원.jpg" style="width:200px; height:200px;" />
+              <img src="./img/이희원.jpg"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">송가혜 주임</span>
             </td>
             <td>
-              <img src="./img/이희원.jpg" style="width:200px; height:200px;" />
+              <img src="./img/이희원.jpg"  />
             </td>
             <td>
               <span style="margin-top:10px;font-size:20px;">이희원 주임</span>
