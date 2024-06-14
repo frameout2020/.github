@@ -7,54 +7,54 @@
 
 ## Team Frameout Publisher
 
-<div style="display : flex; gap : 20px; flex-wrap : wrap;">
-  <div style="display : flex; flex-direction : column; align-items : center;">
-    <div style="width : 200px; overflow: hidden; border-radius: 100%;">
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <div style="display:flex;flex-direction:column; align-items:center;">
+    <div style="width:200px; overflow:hidden; border-radius:100%;">
       <img src="./img/나영준.png"/>
     </div>
-    <span style="margin-top : 10px; font-size : 20px; ">나영준 팀장</span>
+    <span style="margin-top:10px;font-size:20px;">나영준 팀장</span>
   </div>
 
-  <div style="display : flex; flex-direction : column; align-items : center;">
-    <div style="width : 200px; overflow: hidden; border-radius: 100%;">
+  <div style="display:flex;flex-direction:column; align-items:center;">
+    <div style="width:200px; overflow:hidden; border-radius:100%;">
       <img src="./img/함성재.jpg"/>
     </div>
-    <span style="margin-top : 10px; font-size : 20px; ">함성재 차장</span>
+    <span style="margin-top:10px;font-size:20px;">함성재 차장</span>
   </div>
 
-  <div style="display : flex; flex-direction : column; align-items : center;">
-    <div style="width : 200px; overflow: hidden; border-radius: 100%;">
+  <div style="display:flex;flex-direction:column; align-items:center;">
+    <div style="width:200px; overflow:hidden; border-radius:100%;">
       <img src="./img/이은재.png"/>
     </div>
-    <span style="margin-top : 10px; font-size : 20px; ">이은재 차장</span>
+    <span style="margin-top:10px;font-size:20px;">이은재 차장</span>
   </div>
 
-  <div style="display : flex; flex-direction : column; align-items : center;">
-    <div style="width : 200px; overflow: hidden; border-radius: 100%;">
+  <div style="display:flex;flex-direction:column; align-items:center;">
+    <div style="width:200px; overflow:hidden; border-radius:100%;">
       <img src="./img/최찬식.jpg"/>
     </div>
-    <span style="margin-top : 10px; font-size : 20px; ">최찬식 대리</span>
+    <span style="margin-top:10px;font-size:20px;">최찬식 대리</span>
   </div>
 
-  <div style="display : flex; flex-direction : column; align-items : center;">
-    <div style="width : 200px; overflow: hidden; border-radius: 100%;">
+  <div style="display:flex;flex-direction:column; align-items:center;">
+    <div style="width:200px; overflow:hidden; border-radius:100%;">
       <img src="./img/김혜연.png"/>
     </div>
-    <span style="margin-top : 10px; font-size : 20px; ">김혜연 대리</span>
+    <span style="margin-top:10px;font-size:20px;">김혜연 대리</span>
   </div>
 
-  <div style="display : flex; flex-direction : column; align-items : center;">
-    <div style="width : 200px; overflow: hidden; border-radius: 100%;">
+  <div style="display:flex;flex-direction:column; align-items:center;">
+    <div style="width:200px; overflow:hidden; border-radius:100%;">
       <img src="./img/김예빈.jpeg"/>
     </div>
-    <span style="margin-top : 10px; font-size : 20px; ">김예빈 주임</span>
+    <span style="margin-top:10px;font-size:20px;">김예빈 주임</span>
   </div>
 
-  <div style="display : flex; flex-direction : column; align-items : center;">
-    <div style="width : 200px; overflow: hidden; border-radius: 100%;">
+  <div style="display:flex;flex-direction:column; align-items:center;">
+    <div style="width:200px; overflow:hidden; border-radius:100%;">
       <img src="./img/이희원.jpg"/>
     </div>
-    <span style="margin-top : 10px; font-size : 20px; ">이희원 주임</span>
+    <span style="margin-top:10px;font-size:20px;">이희원 주임</span>
   </div>
 </div>
 
