@@ -32,6 +32,16 @@
     <img src="./img/김예빈.jpeg" style="width : 200px; overflow: hidden; border-radius: 100%;"/>
     <span style="margin-top : 10px; font-size : 20px; ">김예빈 주임</span>
   </div>
+
+  <div style="display : flex; flex-direction : column; align-items : center;">
+    <img src="./img/김혜연.png" style="width : 200px; overflow: hidden; border-radius: 100%;"/>
+    <span style="margin-top : 10px; font-size : 20px; ">김혜연 대리</span>
+  </div>
+
+  <div style="display : flex; flex-direction : column; align-items : center;">
+    <img src="./img/김예빈.jpeg" style="width : 200px; overflow: hidden; border-radius: 100%;"/>
+    <span style="margin-top : 10px; font-size : 20px; ">김예빈 주임</span>
+  </div>
 </div>
 
 ---
