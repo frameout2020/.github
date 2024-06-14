@@ -52,7 +52,7 @@
 
   <div style="display : flex; flex-direction : column; align-items : center;">
     <div style="width : 200px; overflow: hidden; border-radius: 100%;">
-      <img src="./img/김예빈.jpeg"/>
+      <img src="./img/이희원.jpg"/>
     </div>
     <span style="margin-top : 10px; font-size : 20px; ">이희원 주임</span>
   </div>
