@@ -66,12 +66,8 @@
             <td>
               <span style="margin-top:10px;font-size:20px;">송가혜 주임</span>
             </td>
-            <td>
-              <img src="./img/이희원.jpg" style="width:200px; height:200px;" />
-            </td>
-            <td>
-              <span style="margin-top:10px;font-size:20px;">이희원 주임</span>
-            </td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
